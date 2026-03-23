@@ -15,8 +15,8 @@ This project analyzes Emergency Room patient data to evaluate hospital performan
 
 ## 📈 Key Insights
 
-* Average Patient Wait Time: ~35 minutes
-* Admission Rate: ~50%
+* Average Patient Wait Time: 35 minutes
+* Admission Rate: 50%
 * Longer wait times negatively impact patient satisfaction
 * Certain departments show higher wait times and lower satisfaction
 
