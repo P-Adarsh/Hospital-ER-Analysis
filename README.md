@@ -36,6 +36,6 @@ This project analyzes Emergency Room patient data to evaluate hospital performan
 The project highlights how operational efficiency directly impacts patient satisfaction and hospital performance.
 
 ## 👤 Author
-LinkedIn: linkedin.com/in/adarsh-kumar-reddy-peddakotla
+LinkedIn: www.linkedin.com/in/adarsh-kumar-reddy-peddakotla
 
 Adarsh Peddakotla
