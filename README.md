@@ -38,4 +38,4 @@ The project highlights how operational efficiency directly impacts patient satis
 ## 👤 Author
 LinkedIn: www.linkedin.com/in/adarsh-kumar-reddy-peddakotla
 
-Adarsh Peddakotla
+Peddakotla Adarsh Kumar Reddy
